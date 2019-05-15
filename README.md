@@ -95,7 +95,7 @@ I did the warnings for myself, so you should keep them too, but, should you choo
 ## Acknowledgements
 
 
-Enjoy and send feedback through the AM forum.  
+Enjoy and send feedback.  
 Thanks.  
 
 ***CSD** is offered as is with no guaranties whatsoever. We (I) will not be responsible for any harm it decides to do to your romlists, assets, Attract Mode, operating system, computer or life. I think, though, it will behave (mostly)*  
