@@ -1,4 +1,6 @@
-﻿# Consolidate Data  
+# Consolidate Data
+
+![#AMLS](https://github.com/farique1/consolidate-data/blob/master/Images/CSD.png)  
 
 ## What it is.  
 
@@ -7,6 +9,8 @@
 ## How to use.  
 
 >**CSD** need to be on the same folder as its `Data` and `ListsBackup` subfolders.  
+
+![#gui](https://github.com/farique1/consolidate-data/blob/master/Images/gui.png)
 
 From top to bottom, main interface:  
 
