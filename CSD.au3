@@ -1,7 +1,7 @@
 ;~ Consolidate Data v0.9
 ;~ Find, combine and display all occurrences of years, publishers(manufacturers) and categories(genres)
 ;~ on your Attract Mode romlists, showing which systems and games are using them. It will also allow you
-;~ to change and standardize the data across the emulators and games.
+;~ to change and standardise the data across the emulators and games.
 ;~
 ;~ Copyright (C) 2018 - Fred Rique (farique) https://github.com/farique1
 
