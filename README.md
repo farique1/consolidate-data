@@ -42,10 +42,10 @@ Points to the **Attract Mode** installation folder. After selecting the correct 
 - *Rescan button:*  
 Performs a new scan of the data on the current path.  
 
-- *No Quantity check box*  
+- *No Quantity check box:*  
 Allows a faster scan, WITHOUT calculating the quantities.  
 
-- *Show Sums button*  
+- *Show Sums button:*  
 Sums the same data across the systems, showing the total on the list. You cannot edit an entry on this mode.  
 
 - *Show Games button:*  
