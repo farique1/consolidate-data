@@ -1,6 +1,6 @@
-# Consolidate Data
+<img src="https://github.com/farique1/consolidate-data/blob/master/Images/GitHub_AMCD_Logo-02.png" alt="Attract Mode Consolidate Data" width="290" height="130">  
 
-![#AMLS](https://github.com/farique1/consolidate-data/blob/master/Images/CSD.png)  
+# Attract Mode Consolidate Data
 
 ## What it is.  
 
